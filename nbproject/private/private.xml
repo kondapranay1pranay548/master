@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/views/site/show.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/models/BookingForm.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/models/Pandits.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/models/MasterPoojalu.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/views/site/booking.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/controllers/SiteController.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/config/params-local.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/views/layouts/main.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/views/site/sub_services.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/views/site/detail_view.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/views/layouts/main_footer.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/views/layouts/header_menu.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/controllers/BookingController.php</file>
+            <file>file:/C:/xampp/htdocs/test/test/frontend/views/site/contact.php</file>
+        </group>
+    </open-files>
+</project-private>
