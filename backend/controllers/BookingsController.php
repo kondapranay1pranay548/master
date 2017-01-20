@@ -19,6 +19,7 @@ class BookingsController extends Controller
      */
     public function behaviors()
     {
+		
         return [
             'verbs' => [
                 'class' => VerbFilter::className(),
